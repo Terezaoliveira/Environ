@@ -376,7 +376,7 @@ body.loaded #preloader{
 .home-section-background {
     position: relative;
     height: 100vh;
-    background: url(../images/bg/forest.gif);
+    background: url(../images/bg/forest-2.gif);
     background-size: cover;
     z-index: 1;
 }
