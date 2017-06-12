@@ -163,26 +163,6 @@ fieldset {
 	cursor: url(../images/owl-carousel/grabbing.png) 8 8, move;
 }
 
-.botao{
-  border: none;
-  font-family: 'NowAlt';
-  font-size: inherit;
-  color: inherit;
-  background: none;
-  cursor: pointer;
-  padding: 15px 30px;
-  display: inline-block;
-  margin: 5px 30px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  font-weight: 700;
-  outline: none;
-  position: relative;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  transition: all 0.3s;
-}
-
 .button {
 	border: none;
 	font-family: 'NowAlt', inherit;
@@ -252,7 +232,7 @@ fieldset {
 }
 
 .button-style:active:before {
-	color: #17954c;
+	color: #fff;
 }
 
 .button-style-icon:before {
