@@ -44,7 +44,7 @@ body {
     line-height: 24px;
     letter-spacing: 1px;
     height: 100%;
-    font-family: 'Now Alt', sans-serif;
+    font-family: 'NowAltRegular', sans-serif;
 }
 
 html,
@@ -68,7 +68,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Now Alt', sans-serif;
+	font-family: 'NowAlt', sans-serif;
 }
 
 a {
@@ -165,7 +165,7 @@ fieldset {
 
 .botao{
   border: none;
-  font-family: inherit;
+  font-family: 'NowAlt';
   font-size: inherit;
   color: inherit;
   background: none;
@@ -185,7 +185,7 @@ fieldset {
 
 .button {
 	border: none;
-	font-family: inherit;
+	font-family: 'NowAlt', inherit;
 	font-size: inherit;
 	color: inherit;
 	background: none;
@@ -214,7 +214,7 @@ fieldset {
 
 
 .button:before {
-	font-family: 'FontAwesome';
+	font-family: 'NowAlt', inherit;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -376,7 +376,7 @@ body.loaded #preloader{
 .home-section-background {
     position: relative;
     height: 100vh;
-    background: url(../images/bg/forest.gif);
+    background: url(../images/bg/VaiSerEsse.gif);
     background-size: cover;
     z-index: 1;
 }
@@ -473,7 +473,7 @@ body.loaded #preloader{
 }
 
 .navigation-menu .navbar-nav li a {
-    color: rgb(68, 200, 245);
+    color: #fff;
     text-transform: uppercase;
     font-size: 12px;
     letter-spacing: 1px;
@@ -618,7 +618,7 @@ ul.portfolio li.active {
 .portfolio .item a:before{
   color: #ffffff;
   content: "\f00e";
-  font-family: "FontAwesome";
+  font-family: 'NowAlt', inherit;
   text-align: center;
   color: #ffffff;
   position: absolute;
