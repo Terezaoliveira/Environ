@@ -170,9 +170,9 @@ fieldset {
 	color: inherit;
 	background: none;
 	cursor: pointer;
-	padding: 25px 80px;
+	padding: 20px 50px;
 	display: inline-block;
-	margin: 5px 30px;
+	margin: 25px 30px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	font-weight: 700;
@@ -237,7 +237,7 @@ fieldset {
 
 .button-style-icon:before {
 	left: 130%;
-	top: -2px;
+	top: -5px;
 }
 
 .button-style-icon:hover:before {
@@ -397,7 +397,7 @@ body.loaded #preloader{
     color: #f8f8f8;
     letter-spacing: 4px;
     font-size: 25px;
-	margin-top: 40px;
+	margin-top: 10%;
 	margin-bottom: 20px;
 }
 
