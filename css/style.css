@@ -388,7 +388,7 @@ body.loaded #preloader{
 
 .home-section-background h2 {
     color: #f8f8f8;
-    font-size: 45px;
+    font-size: 57px;
     letter-spacing: 5px;
     margin: 0;
 }
@@ -506,6 +506,10 @@ body.loaded #preloader{
     color: #172e54;
 }
 
+.novafonte {
+  font-family: bebasneue;
+}
+
 
 
 /* About Me */
@@ -516,7 +520,7 @@ body.loaded #preloader{
 }
 
 .about-section img {
-	position: absolute;
+	position: relative;
 }
 
 .about-me {}
@@ -531,6 +535,23 @@ body.loaded #preloader{
 	font-size: 15px;
 }
 
+.centralizar{
+  text-align: center;
+}
+
+.colorir {
+  background-color: hsla(195, 91%, 91%, 0.95);
+}
+
+.espaco {
+  margin-top: 70px;
+  margin-bottom: 100px;
+}
+
+.pequeno-espaco{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
 
 
 /* Portfolio */
