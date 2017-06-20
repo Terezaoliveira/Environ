@@ -388,7 +388,7 @@ body.loaded #preloader{
 
 .home-section-background h2 {
     color: #f8f8f8;
-    font-size: 57px;
+    font-size: 90px;
     letter-spacing: 5px;
     margin: 0;
 }
@@ -396,7 +396,7 @@ body.loaded #preloader{
 .home-section-background p {
     color: #f8f8f8;
     letter-spacing: 4px;
-    font-size: 25px;
+    font-size: 40px;
 	margin-top: 10%;
 	margin-bottom: 20px;
 }
@@ -507,7 +507,7 @@ body.loaded #preloader{
 }
 
 .novafonte {
-  font-family: bebasneue;
+  font-family: bebasneueregular;
 }
 
 
