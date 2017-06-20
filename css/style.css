@@ -521,6 +521,7 @@ body.loaded #preloader{
 
 .about-section img {
 	position: relative;
+  margin-left: 50%;
 }
 
 .about-me {}
@@ -535,8 +536,8 @@ body.loaded #preloader{
 	font-size: 15px;
 }
 
-.centralizar{
-  text-align: center;
+.justificar{
+  text-align: justify;
 }
 
 .colorir {
@@ -549,6 +550,7 @@ body.loaded #preloader{
 }
 
 .pequeno-espaco{
+  text-align: center;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -946,6 +948,7 @@ ul.portfolio li.active {
     .about-section 
   img {
         position: static;
+        margin-left: auto;
      }
 	 
      .call-to-action h2 {
