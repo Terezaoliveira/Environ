@@ -388,7 +388,7 @@ body.loaded #preloader{
 
 .home-section-background h2 {
     color: #f8f8f8;
-    font-size: 90px;
+    font-size: 70px;
     letter-spacing: 5px;
     margin: 0;
 }
@@ -396,7 +396,7 @@ body.loaded #preloader{
 .home-section-background p {
     color: #f8f8f8;
     letter-spacing: 4px;
-    font-size: 40px;
+    font-size: 30px;
 	margin-top: 10%;
 	margin-bottom: 20px;
 }
@@ -510,6 +510,19 @@ body.loaded #preloader{
   font-family: bebasneueregular;
 }
 
+.fonte-hanken{
+  font-family: Hankenbook;
+}
+
+.fonte-nowalt{
+  font-family: NowAltRegular;
+}
+
+.fonte-nowalt-negrito{
+  font-family: NowAltRegular;
+  font-weight: bold;
+}
+
 
 
 /* About Me */
@@ -541,18 +554,18 @@ body.loaded #preloader{
 }
 
 .colorir {
-  background-color: hsla(195, 91%, 91%, 0.95);
+  background-color: white;
 }
 
 .espaco {
   margin-top: 70px;
-  margin-bottom: 100px;
+  margin-bottom: 0px;
 }
 
 .pequeno-espaco{
   text-align: center;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 0px;
+  margin-bottom: 40px;
 }
 
 

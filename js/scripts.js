@@ -110,7 +110,7 @@
 		
         $(window).load(function(){
         $(".typing").typed({
-            strings: [" ", " ",  "DESENVOLVIMENTO SUSTENTÁVEL"],    /* You can change the home section typing text from
+            strings: [" ", " ",  "MAS DURAREM."],    /* You can change the home section typing text from
 	                                                                                            here and do not use "&" use "and" */
             typeSpeed: 50
           });
