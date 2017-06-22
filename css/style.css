@@ -530,6 +530,11 @@ body.loaded #preloader{
   font-size: 13px;
 }
 
+.fonte-nowalt-negrito-2 {
+  font-family: NowAltRegular;
+  font-weight: bold;
+}
+
 
 
 /* About Me */
