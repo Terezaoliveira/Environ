@@ -388,7 +388,7 @@ body.loaded #preloader{
 
 .home-section-background h2 {
     color: #f8f8f8;
-    font-size: 70px;
+    font-size: 55px;
     letter-spacing: 5px;
     margin: 0;
 }
@@ -396,7 +396,7 @@ body.loaded #preloader{
 .home-section-background p {
     color: #f8f8f8;
     letter-spacing: 4px;
-    font-size: 30px;
+    font-size: 25px;
 	margin-top: 10%;
 	margin-bottom: 20px;
 }
@@ -510,17 +510,24 @@ body.loaded #preloader{
   font-family: bebasneueregular;
 }
 
-.fonte-hanken{
+.fonte-hanken {
   font-family: Hankenbook;
 }
 
-.fonte-nowalt{
+.fonte-nowalt {
   font-family: NowAltRegular;
 }
 
-.fonte-nowalt-negrito{
+.fonte-nowalt-negrito {
   font-family: NowAltRegular;
   font-weight: bold;
+  font-size: 60px;
+}
+
+.fonte-nowalt-negrito-1 {
+  font-family: NowAltRegular;
+  font-weight: bold;
+  font-size: 13px;
 }
 
 
