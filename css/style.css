@@ -505,6 +505,10 @@ body.loaded #preloader{
     color: #172e54;
 }
 
+#negrito {
+  font-weight: bold;
+}
+
 .nova-section {
     text-align: center;
     margin-top: 0;
