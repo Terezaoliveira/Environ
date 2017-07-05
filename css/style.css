@@ -355,7 +355,7 @@ body.loaded #preloader{
 .home-section-background {
     position: relative;
     height: 100vh;
-    background: url(../images/bg/agoraVai.gif);
+    background: url(../images/bg/agoravai.gif);
     background-size: cover;
     z-index: 1;
 }
@@ -550,6 +550,25 @@ body.loaded #preloader{
   font-weight: bold;
 }
 
+#economico {
+  color:#e75b37;
+}
+
+#social {
+  color:#e10c2c;
+}
+
+#ambiental {
+  color:#0093b7;
+}
+
+#nomeio {
+  vertical-align: middle;
+}
+
+#zero_espaco {
+  margin-bottom: 0px;
+}
 
 
 /* About Me */
@@ -595,6 +614,11 @@ body.loaded #preloader{
   margin-bottom: 40px;
 }
 
+.diagrama {
+width: 70%;
+height: 70%;
+padding-left: 3%;
+}
 
 /* Portfolio */
 
