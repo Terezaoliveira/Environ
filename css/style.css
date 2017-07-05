@@ -550,24 +550,8 @@ body.loaded #preloader{
   font-weight: bold;
 }
 
-#economico {
-  color:#e75b37;
-}
-
-#social {
-  color:#e10c2c;
-}
-
-#ambiental {
-  color:#0093b7;
-}
-
-#nomeio {
-  vertical-align: middle;
-}
-
 #zero_espaco {
-  margin-bottom: 0px;
+  margin-bottom: 9%;
 }
 
 
@@ -600,7 +584,7 @@ body.loaded #preloader{
 }
 
 .colorir {
-  background-color: white;
+  background-color: #dad5ee;
 }
 
 .espaco {
