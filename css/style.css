@@ -139,13 +139,10 @@ fieldset {
 .section-title h3 {
     margin-top: 0;
     font-weight: 600;
-    border-bottom: 10px double #44C8F5;
-	border-radius: 25px;
     font-size: 30px;
     margin: 0 auto;
     padding: 10px 0;
     width: 350px;
-	margin-bottom: 30px;
 }
 
 .section-title p {
@@ -252,6 +249,69 @@ fieldset {
   color: white;
 }
 
+.linha {
+
+}
+
+#linha-vermelha-sobre {
+  border-color: rgb(190, 30, 45); 
+  max-width: 280px; 
+  border-width: 3px;
+  margin-bottom: 40px;
+}
+
+#linha-azul-sobre {
+  border-color: rgb(68, 200, 245); 
+  max-width: 280px; 
+  border-width: 3px;
+  margin-top: 0;
+}
+
+#linha-laranja-sobre {
+  border-color: rgb(242, 101, 34); 
+  max-width: 280px; 
+  border-width: 3px;
+}
+
+#linha-vermelha-motivo {
+  border-color: rgb(190, 30, 45); 
+  max-width: 340px; 
+  border-width: 3px;
+  margin-bottom: 40px;
+}
+
+#linha-azul-motivo {
+  border-color: rgb(68, 200, 245); 
+  max-width: 340px; 
+  border-width: 3px;
+  margin-top: 0;
+}
+
+#linha-laranja-motivo {
+  border-color: rgb(242, 101, 34); 
+  max-width: 340px; 
+  border-width: 3px;
+}
+
+#linha-vermelha-servicos {
+  border-color: rgb(190, 30, 45); 
+  max-width: 320px; 
+  border-width: 3px;
+  margin-bottom: 40px;
+}
+
+#linha-azul-servicos {
+  border-color: rgb(68, 200, 245); 
+  max-width: 320px; 
+  border-width: 3px;
+  margin-top: 0;
+}
+
+#linha-laranja-servicos {
+  border-color: rgb(242, 101, 34); 
+  max-width: 320px; 
+  border-width: 3px;
+}
 
 
 /* Preloader */
@@ -386,7 +446,7 @@ body.loaded #preloader{
 
 .home-section-background h2 {
     color: #f8f8f8;
-    font-size: 45px;
+    font-size: 40px;
     letter-spacing: 5px;
     margin: 0;
 }
@@ -512,12 +572,9 @@ body.loaded #preloader{
     text-align: center;
     margin-top: 0;
     font-weight: 600;
-    border-bottom: 10px double #44C8F5;
-    border-radius: 25px;
     font-size: 30px;
     margin: 0 auto;
     padding: 10px 0;
-    margin-bottom: 30px;
 }
 
 .novafonte {
@@ -607,6 +664,7 @@ width: 70%;
 height: 70%;
 padding-left: 3%;
 }
+
 
 /* Portfolio */
 
@@ -791,7 +849,7 @@ ul.portfolio li.active {
   background-color: #ffffff;
 }
 
-.services-section hr {
+#hr {
   border-bottom: 2px solid #fff;
   width: 42px;
   margin-left: 0px;
