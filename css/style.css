@@ -253,65 +253,66 @@ fieldset {
 
 }
 
-#linha-vermelha-sobre {
-  border-color: rgb(190, 30, 45); 
-  max-width: 280px; 
-  border-width: 3px;
-  margin-bottom: 40px;
-}
-
 #linha-azul-sobre {
   border-color: rgb(68, 200, 245); 
-  max-width: 280px; 
+  max-width: 27%; 
   border-width: 3px;
   margin-top: 0;
 }
 
 #linha-laranja-sobre {
   border-color: rgb(242, 101, 34); 
-  max-width: 280px; 
+  max-width: 26%; 
   border-width: 3px;
 }
 
-#linha-vermelha-motivo {
+#linha-vermelha-sobre {
   border-color: rgb(190, 30, 45); 
-  max-width: 340px; 
+  max-width: 25%; 
   border-width: 3px;
   margin-bottom: 40px;
 }
 
 #linha-azul-motivo {
   border-color: rgb(68, 200, 245); 
-  max-width: 340px; 
+  max-width: 35%; 
   border-width: 3px;
   margin-top: 0;
 }
 
 #linha-laranja-motivo {
   border-color: rgb(242, 101, 34); 
-  max-width: 340px; 
+  max-width: 34%; 
   border-width: 3px;
 }
 
-#linha-vermelha-servicos {
+#linha-vermelha-motivo {
   border-color: rgb(190, 30, 45); 
-  max-width: 320px; 
+  max-width: 33%; 
   border-width: 3px;
   margin-bottom: 40px;
 }
 
 #linha-azul-servicos {
   border-color: rgb(68, 200, 245); 
-  max-width: 320px; 
+  max-width: 33%; 
   border-width: 3px;
   margin-top: 0;
 }
 
 #linha-laranja-servicos {
   border-color: rgb(242, 101, 34); 
-  max-width: 320px; 
+  max-width: 32%; 
   border-width: 3px;
 }
+
+#linha-vermelha-servicos {
+  border-color: rgb(190, 30, 45); 
+  max-width: 31%; 
+  border-width: 3px;
+  margin-bottom: 40px;
+}
+
 
 
 /* Preloader */
