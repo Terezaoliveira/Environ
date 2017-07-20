@@ -447,7 +447,7 @@ body.loaded #preloader{
 
 .home-section-background h2 {
     color: #f8f8f8;
-    font-size: 40px;
+    font-size: 300%;
     letter-spacing: 5px;
     margin: 0;
 }
