@@ -599,7 +599,7 @@ body.loaded #preloader{
 .fonte-nowalt-negrito-1 {
   font-family: NowAltRegular;
   font-weight: bold;
-  font-size: 10px;
+  font-size: 80%;
 }
 
 .fonte-nowalt-negrito-2 {
