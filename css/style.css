@@ -846,12 +846,16 @@ ul.portfolio li.active {
 
 /* Services */
 
+.branco {
+  color: white;
+}
+
 .services-section {
   background-color: #ffffff;
 }
 
 #hr {
-  border-bottom: 2px solid #fff;
+  border-bottom: 2px solid #000;
   width: 42px;
   margin-left: 0px;
 }
@@ -910,7 +914,15 @@ ul.portfolio li.active {
 
 /* Contact Us */
 
+#botao_enviar {
+  color: rgb(68, 200, 245);
+  background-color: #fff;
+  border: 3px solid white !important;
+}
 
+#botao_enviar:hover {
+  color:  rgb(68, 200, 245) !important;
+}
 
 .contact-us {
 	background-color: rgb(68, 200, 245);
@@ -1034,6 +1046,10 @@ ul.portfolio li.active {
 
 .facebook {
    background-color: #0fa8f3;
+}
+
+.linkedin {
+  background-color: rgb(0, 119, 181);
 }
 
 
@@ -1513,15 +1529,15 @@ ul.portfolio li.active {
 /* Colors */
 
 .color-1 {
-	color: #ffffff;
+	color: #000;
 }
 
 .color-2 {
-	color: #ffffff;
+	color: #000;
 }
 
 .color-3 {
-	color: #ffffff;
+	color: #000;
 }
 
 .color-4 {
